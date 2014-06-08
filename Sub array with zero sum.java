@@ -1,5 +1,5 @@
 
-/*Given an array of integers and a number x, find the smallest subarray with sum greater than the given value.*/
+/*Given an array of positive and negative numbers, find if there is a subarray with 0 sum.*/
 
 import java.util.HashMap;
 
